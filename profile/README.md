@@ -10,6 +10,6 @@ We build our own tools when the work calls for them, and we care as much about h
 
 - **Lost 'N Found** is a platformer set in a place where lost things are kept. What starts as a search for missing objects leads somewhere less familiar.
 
-- **Mirage** is our open-source modular game engine, written in C#. We're building it alongside our games, one piece at a time.
+- **[OpenGE](https://github.com/stonebogus/openge)** is our open-source modular game engine, written in C#. We're building it alongside our games, one piece at a time.
 
 This is where we'll share what we're making, what we're learning, and whatever comes next.
